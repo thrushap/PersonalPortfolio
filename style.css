@@ -234,19 +234,27 @@ header {
 }
 
 .html {
-    width: 90%;
+    width: 70%;
 }
 
 .css {
-    width: 80%;
+    width: 60%;
 }
 
-.javascript {
+.java {
     width: 65%;
 }
 
 .python {
     width: 70%;
+}
+
+.c {
+    width: 80%;
+}
+
+.dbms {
+    width: 80%;
 }
 
 /* Contact Section */
