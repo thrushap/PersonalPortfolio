@@ -366,3 +366,26 @@ footer {
         overflow-wrap: anywhere;
     }
 }
+
+.skill {
+    margin-bottom: 20px;
+  }
+  
+  .skill-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  
+  .progress {
+    height: 10px;
+    background: #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    background: #3b82f6;
+    border-radius: 10px;
+  }
